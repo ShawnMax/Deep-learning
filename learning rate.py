@@ -1,3 +1,5 @@
+""3 ways to adjust learning rate""
+
 def adjust_learning_rate(optimizer, epoch, milestones=None):
     """Sets the learning rate: milestone is a list/tuple"""
  
